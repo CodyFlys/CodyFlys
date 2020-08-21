@@ -1,1 +1,1 @@
-![image](https://github.com/saadeghi/CodyFlys/blob/master/dino.gif)
+![image](https://github.com/CodyFlys/blob/master/dino.gif)
